@@ -1,6 +1,6 @@
 # Define the variable board below.
-board = [""]
-i = 1 
+board = []
+i = 0
 while i < 9 do 
   board.push("")
   i += 1
